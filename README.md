@@ -20,26 +20,6 @@ Este projeto é uma API desenvolvida com **FastAPI** em Python, que realiza:
 
 ---
 
-## 📁 Estrutura do Projeto
-
-api-sentimento/
-├── app/
-│ ├── init.py
-│ ├── main.py
-│ ├── routes.py
-│ ├── services.py
-│ ├── cache.py
-│ ├── models.py
-│ └── exceptions.py
-├── tests/
-│ ├── test_analyze.py
-│ └── test_search.py
-├── requirements.txt
-├── pytest.ini
-└── README.md
-
----
-
 ## ⚙️ Como executar localmente
 
 ### 1. Clonar o repositório
