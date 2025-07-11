@@ -79,4 +79,3 @@ pytest
 ## 👨‍💻 Autor
 
 Diogo Luis Oliveira de Lima
-https://github.com/diogoluis93
