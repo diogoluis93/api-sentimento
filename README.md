@@ -1,3 +1,5 @@
+## This is a challenge by Coodesh
+
 # 📊 API de Análise de Texto e Sentimento
 
 Este projeto é uma API desenvolvida com **FastAPI** em Python, que realiza:
